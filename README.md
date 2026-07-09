@@ -20,9 +20,9 @@ Jan Bermejo Torán — estudiante de Grado Superior en Ciberseguridad
 Aprendiendo a través de práctica ofensiva y defensiva en HackTheBox y TryHackMe
 
 Enfocado en el desarrollo de herramientas open source,
-la administración de sistemas Linux, el self-hosting yla automatización.
-Defensor del software libre, la transparencia,la privacidad ylos estándares
-abiertos como base para unainfraestructura tecnológica sólida y sostenible.
+la administración de sistemas Linux, el self-hosting y la automatización.
+Defensor del software libre, la transparencia,la privacidad y los estándares
+abiertos como base para una infraestructura tecnológica sólida y sostenible.
 
 Con base en España 🇪🇸
 ```
