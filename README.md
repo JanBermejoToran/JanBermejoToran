@@ -74,7 +74,7 @@ Con base en España 🇪🇸
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=JanBermejoToran&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+<img src="https://streak-stats.demolab.com/?user=JanBermejoToran&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
 </div>
 
@@ -102,8 +102,8 @@ Con base en España 🇪🇸
 <div align="center">
 
 <!-- Sustituye los enlaces por los tuyos reales -->
-<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jan-bermejo-toran"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:janbermejotoran@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://tryhackme.com/p/janbermejotoran"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 <a href="https://www.hackthebox.com/home/users/profile/019d6778-417d-717a-9b7d-37572ae68cff"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
 
